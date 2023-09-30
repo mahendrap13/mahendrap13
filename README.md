@@ -44,7 +44,7 @@ I have a diverse skill set that spans both the front-end and back-end of web dev
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahendra-parihar-/"target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mahi_13s/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahendra-parihar-/"target="_blank"><img width="100" height="100" src="https://img.icons8.com/clouds/100/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.instagram.com/mahi_13s/" target="_blank"><img width="100" height="100" src="https://img.icons8.com/clouds/100/instagram-new--v3.png" alt="instagram-new--v3"/></a>
 
   

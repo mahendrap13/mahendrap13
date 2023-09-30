@@ -28,7 +28,7 @@
   
 
 
-  ## 💻 What I Do
+## 💻 What I Do
 
 I have a diverse skill set that spans both the front-end and back-end of web development. Here are some of my areas of expertise:
 
@@ -42,7 +42,7 @@ I have a diverse skill set that spans both the front-end and back-end of web dev
 - **Passion for Quality:** I'm obsessed with writing clean, maintainable code and ensuring that my projects meet the highest standards of quality and performance.
 - 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📞 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahendra-parihar-/"target="_blank"><img width="100" height="100" src="https://img.icons8.com/clouds/100/linkedin.png" alt="linkedin"/></a>
 <a href="https://www.instagram.com/mahi_13s/" target="_blank"><img width="100" height="100" src="https://img.icons8.com/clouds/100/instagram-new--v3.png" alt="instagram-new--v3"/></a>
